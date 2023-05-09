@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+ ![edm 5 2 thilaga_page-0001 (1)](https://user-images.githubusercontent.com/119407159/237047282-b1fd2bd7-1a60-4ba6-9101-7141c29a48e8.jpg)
 
 
 ## RESULT:
